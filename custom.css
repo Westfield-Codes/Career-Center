@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: white;
+  }
+}
+.acf-view__employer-label,
+.acf-view__intern-roles-label,
+.acf-view__work-description-label,
+.acf-view__employable-skills-label,
+.acf-view__anecdotes-label,
+.acf-view__gallery-label {
+font-weight:bold;
+}
+
+.home .wp-container-core-group-is-layout-f170806e {
+background-color:#9C9C9C!important;
+}
+
+.home .wp-block-column-is-layout-flow {
+background-color:#fff!important;
+}
